@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import MapContainer from './MapContainer.jsx'
 
 class App extends Component {
   constructor () {
