@@ -12,5 +12,5 @@
 - I will begin by rendering a centered map and then attempt to place one marker with example data
 ## Frontend Architecture: React google maps dependency
 - I would like to seperate the concerns of the front-end dist folder (html page) from the creation of the markers and the creation of the map
-- I will experiment with using the google-maps-react npm dependency
+- I will experiment with using the google-maps-react npm dependency and adding markers to the page
 
