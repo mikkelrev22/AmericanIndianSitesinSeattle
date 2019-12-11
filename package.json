@@ -2,7 +2,7 @@
   "name": "americanindiansitesinseattle",
   "version": "1.0.0",
   "description": "- Interactive app using Google maps API and historical data",
-  "main": "index.js",
+  "main": "server/index.js",
   "scripts": {
     "start": "nodemon",
     "build": "webpack --watch -d"
@@ -27,6 +27,7 @@
     "nodemon": "^2.0.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "webpack": "^4.41.2"
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
   }
 }
