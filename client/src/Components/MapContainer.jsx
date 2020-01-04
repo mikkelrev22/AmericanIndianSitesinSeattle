@@ -9,7 +9,6 @@ class MapContainer extends Component {
       stores: [{lat: 47.667528, lng: -122.400924}]
     }
   }
-
   displayMarkers () {
     if (this.props.display) {
       return this.state.stores.map((store, i)=>{
